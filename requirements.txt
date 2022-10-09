@@ -18,3 +18,4 @@ tzdata==2022.2
 Werkzeug==2.2.2
 whitenoise==6.2.0
 zipp==3.8.1
+psycopg2==2.9.3
